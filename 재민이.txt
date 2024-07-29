@@ -1,0 +1,5 @@
+현재 폴더 들어와서
+pip install -r requirements.txt
+
+실행
+streamlit run app.py
